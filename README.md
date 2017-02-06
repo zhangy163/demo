@@ -31,4 +31,6 @@
 	shadow阴影演示
 #customEditTextDemo
 	自定义 EditText 演示
+#hintDemo
+	Dialog、Toast、Snackbar 演示,里面Dialog是Material Design风格，Toast连续点击体验差的改善以及Snackbar提示是可以交互的
 
