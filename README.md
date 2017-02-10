@@ -26,11 +26,15 @@
 	fresco 图片加载框架，演示
 #jodatimeDemo
 	jodatime 日期类库演示
-
 #shadowDemo
 	shadow阴影演示
 #customEditTextDemo
 	自定义 EditText 演示
 #hintDemo
 	Dialog、Toast、Snackbar 演示,里面Dialog是Material Design风格，Toast连续点击体验差的改善以及Snackbar提示是可以交互的
-
+#RxjavaDemo
+	Rxjava+android框架mvp的演示，里面包含的有MVP+Retrofit+RxJava+Glide+RecyclerView+CardView,Rxjava代表的是异步的意思
+#Yipjnidemo
+    AndroidNdk Demo的演示
+#DateAndTimeDemo	
+	TimePicker控件的演示
